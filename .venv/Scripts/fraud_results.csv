@@ -1,0 +1,2767 @@
+Transaction ID,Fraud Score,Flagged,Reasons
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,IP mismatch
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,Duplicate IP usage
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,2,False,Unverified business
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,Unverified business
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,Unverified business
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,Unverified business
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,Duplicate IP usage
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,3,True,"Unverified business, Duplicate IP usage"
+Unknown,0,False,
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,3,True,"IP mismatch, Unverified business"
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,2,False,Unverified business
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,1,False,IP mismatch
+Unknown,0,False,
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,Duplicate IP usage
+Unknown,1,False,Duplicate IP usage
+Unknown,2,False,Unverified business
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,0,False,
+Unknown,1,False,IP mismatch
+Unknown,1,False,IP mismatch
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,4,True,"IP mismatch, Unverified business, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,2,False,"IP mismatch, Duplicate IP usage"
+Unknown,1,False,IP mismatch
