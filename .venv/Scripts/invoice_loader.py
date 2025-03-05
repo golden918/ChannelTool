@@ -19,6 +19,7 @@ class InvoiceLoader:
         os.makedirs(self.output_directory, exist_ok=True)
 
     def detect_delimiter(self):
+        """Detects the delimiter of the CSV file (supports comma, tab, and semicolon)."""
         try:
             with open(self.filepath, mode='r', encoding='utf-8-sig') as file:
                 sample = file.read(500)
@@ -33,6 +34,7 @@ class InvoiceLoader:
             return None
 
     def load_invoices(self):
+        """Loads rebate invoices from CSV and converts them into RebateInvoice objects."""
         invoices = []
         delimiter = self.detect_delimiter()
 
@@ -90,6 +92,7 @@ class InvoiceLoader:
         return invoices
 
     def save_to_json(self, invoices):
+        """Saves invoices to JSON format for further fraud detection processing."""
         try:
             json_data = [invoice.to_dict() for invoice in invoices]
 

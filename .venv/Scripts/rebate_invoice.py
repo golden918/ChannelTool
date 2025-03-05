@@ -56,3 +56,23 @@ class RebateInvoice:
             "consumer_phone": self.consumer_phone,
             "ip_address": self.ip_address
         }
+
+class SimplifiedRebateInvoice:
+    """
+    Represents a stripped-down rebate invoice without dealer information.
+    """
+
+    def __init__(self, consumer_name, tracking_number, submission_date):
+        self.consumer_name = consumer_name.strip().lower()
+        self.tracking_number = tracking_number
+        self.submission_date = submission_date
+
+    def to_dict(self):
+        """
+        Converts the SimplifiedRebateInvoice object to a dictionary format.
+        """
+        return {
+            "consumer_name": self.consumer_name,
+            "tracking_number": self.tracking_number,
+            "submission_date": self.submission_date,
+        }

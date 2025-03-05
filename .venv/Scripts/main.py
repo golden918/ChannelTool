@@ -6,7 +6,7 @@ from invoice_loader import InvoiceLoader
 from fraud_model import process_fraud_check
 
 TEST_JSON_FILE = "data/test_invoices.json"
-PROCESSED_CSV_FILE = "processed_fraud_results.csv"
+PROCESSED_JSON_FILE = "data/processed_fraud_results.json"
 
 
 def process_new_file():
@@ -21,13 +21,13 @@ def process_new_file():
 
 
 def apply_flags():
-    """Runs fraud detection on the processed JSON and outputs results as CSV."""
+    """Runs fraud detection on the processed JSON and outputs results as a JSON file."""
     if not os.path.exists(TEST_JSON_FILE):
         messagebox.showerror("Error", "❌ No JSON file found! Please process a CSV first.")
         return
 
     process_fraud_check(TEST_JSON_FILE)
-    messagebox.showinfo("Success", f"✅ Fraud check completed! Saved as {PROCESSED_CSV_FILE}")
+    messagebox.showinfo("Success", f"✅ Fraud check completed! Saved as {PROCESSED_JSON_FILE}")
 
 
 def exit_program():
@@ -38,7 +38,7 @@ def exit_program():
 # Create UI
 root = tk.Tk()
 root.title("Fraud Detection System")
-root.geometry("400x300")
+root.geometry("800x600")
 
 label = tk.Label(root, text="Choose an action:", font=("Arial", 12))
 label.pack(pady=20)
@@ -46,7 +46,7 @@ label.pack(pady=20)
 btn_process = tk.Button(root, text="1️⃣ Process New File (CSV → JSON)", command=process_new_file)
 btn_process.pack(pady=10)
 
-btn_apply = tk.Button(root, text="2️⃣ Apply Flags (JSON → CSV)", command=apply_flags)
+btn_apply = tk.Button(root, text="2️⃣ Apply Fraud Check (JSON → JSON)", command=apply_flags)
 btn_apply.pack(pady=10)
 
 btn_exit = tk.Button(root, text="❌ Exit", command=exit_program)
